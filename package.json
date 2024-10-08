@@ -1,0 +1,20 @@
+{
+    "name": "learn-node",
+    "version": "1.0.0",
+    "description": "This is for learning",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
+    "keywords": [
+        "nodejs",
+        "javascript",
+        "backend"
+    ],
+    "author": "Prakash Adhikari",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.0"
+    }
+}
